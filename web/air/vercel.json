@@ -1,9 +1,5 @@
 {
   "github": {
     "silent": true
-  },
-"buildCommand": "go build -ldflags '-s -w' -o user-server .",
-"installCommand": "go mod tidy",
-"outputDirectory": ".",
-"framework": null
+  }
 }
